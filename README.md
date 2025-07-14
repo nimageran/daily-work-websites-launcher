@@ -16,7 +16,8 @@ A simple PowerShell script to automatically open multiple work websites in separ
    - Name it something like "Daily Work Sites"
 3. **Configure the shortcut:**
    - Right-click shortcut → Properties
-   - In Target field, change to: `powershell.exe -ExecutionPolicy Bypass -File "C:\path\to\your\OpenWorkSites.ps1"`
+   - In Target field, change to: `powershell.exe -ExecutionPolicy Bypass -File "C:\Users\ngeran\Desktop\OpenWorkSites R0.ps1"`'
+   - Note: If you update to later versions, like R1, R2, etc, accordingly change that revision number in the above target path.
    - Click OK
 
 ## Customization
